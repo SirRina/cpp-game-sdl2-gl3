@@ -2,7 +2,7 @@
 
 https://github.com/vokegpu/bicudo
 
-Is the latest version with high improvments. 
+Is the latest version with high improvements.
 
 # Bicudo
 
